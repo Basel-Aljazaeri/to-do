@@ -1,20 +1,19 @@
-# Getting started
+## Build and Run
 
-Build and Run
 Instructions for building and running the project:
 
-Get Dependencies
+### Get Dependencies
 To get the required dependencies, run the following command in the project root:
 npm install
 
-Run the App
+### Run the App
 To run the project as an Android app, start the Android emulator and then execute:
 npx expo start
 
-Run the Unit tests
+### Run the Unit tests
 To run the project as an Android app, start the Android emulator and then execute:
-npm run unit test
+npm run unit-test
 
-Run the GUI tests
+### Run the GUI tests
 To run the project as an Android app, start the Android emulator and then execute:
-npm run ui test 
+npm run ui-test
