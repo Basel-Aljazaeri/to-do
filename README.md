@@ -6,22 +6,22 @@ Instructions for building and running the project:
 
 To get the required dependencies, run the following command in the project root execute:
 
-npm install
+- npm install
 
 ### Run the App
 
 To run the project as an Android app, start the Android emulator and then execute:
 
-npx expo start
+- npx expo start
 
 ### Run the Unit tests
 
 To run the project as an Android app, start the Android emulator and then execute:
 
-npm run unit-test
+- npm run unit-test
 
 ### Run the GUI tests
 
 To run the GUI tests, execute:
 
-npm run ui-test
+- npm run ui-test
