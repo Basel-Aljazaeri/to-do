@@ -4,7 +4,7 @@ Instructions for building and running the project:
 
 ### Get Dependencies
 
-To get the required dependencies, run the following command in the project root:
+To get the required dependencies, run the following command in the project root execute:
 
 npm install
 
