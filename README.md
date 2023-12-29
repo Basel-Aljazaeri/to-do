@@ -6,7 +6,7 @@ Instructions for building and running the project:
 
 To get the required dependencies, run the following command in the project root execute:
 
-- npm install
+``` npm install
 
 ### Run the App
 
