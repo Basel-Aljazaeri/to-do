@@ -21,6 +21,6 @@ npm run unit-test
 
 ### Run the GUI tests
 
-To run the project as an Android app, start the Android emulator and then execute:
+To run the GUI tests, execute:
 
 npm run ui-test
